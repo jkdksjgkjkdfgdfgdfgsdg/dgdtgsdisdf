@@ -8,7 +8,7 @@ console.log("log");
 
 client.on("guildMemberAdd", member => {
   member.createDM().then(function (author) {
-  return author.send(' ** حرام واحد جميل مثلك م يكون عندنا .. تنورنا  https://discord.gg/9dJNjkU ** ')
+  return author.send(' ** حرام واحد جميل مثلك م يكون عندنا .. تنورنا  https://discord.gg/qcVt8C ** ')
 
 }).catch(console.error)
 })
